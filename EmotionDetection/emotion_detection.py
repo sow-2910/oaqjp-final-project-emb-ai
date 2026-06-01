@@ -29,7 +29,7 @@ def emotion_detector(text_to_analyze):
 
     result = {
         'anger' : anger_score,
-        'disguts': disgust_score,
+        'disgust': disgust_score,
         'fear' : fear_score,
         'joy': joy_score,
         'sadness': sadness_score,
